@@ -1,0 +1,7 @@
+ms:
+  client:
+    config:
+      environment:
+        name: development
+    hello:
+      message: Hello, this message has been retrieved by the Configuration Service on development profile

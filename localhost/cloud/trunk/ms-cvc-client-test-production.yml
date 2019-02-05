@@ -1,0 +1,7 @@
+ms:
+  client:
+    config:
+      environment:
+        name: production
+    hello:
+      message: Hello, this message has been retrieved by the Configuration Service on production profile

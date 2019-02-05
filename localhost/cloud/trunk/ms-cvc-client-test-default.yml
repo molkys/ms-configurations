@@ -1,0 +1,7 @@
+ms:
+  client:
+    config:
+      environment:
+        name: default
+    hello:
+      message: Hello, this message has been retrieved by the Configuration Service on default profile
